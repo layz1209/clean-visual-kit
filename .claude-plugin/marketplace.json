@@ -1,0 +1,13 @@
+{
+    "name":  "clean-visual-kit",
+    "owner":  {
+                  "name":  "layz1209"
+              },
+    "plugins":  [
+                    {
+                        "name":  "clean-visual-kit",
+                        "source":  "./",
+                        "description":  "High-density Chinese output rules and adaptive monochrome HTML/SVG visual canvases."
+                    }
+                ]
+}

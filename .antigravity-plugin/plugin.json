@@ -1,0 +1,28 @@
+{
+    "$schema":  "https://antigravity.google/schemas/v1/plugin.json",
+    "name":  "clean-visual-kit",
+    "displayName":  "Clean Visual Kit",
+    "version":  "1.0.0",
+    "description":  "High-density Chinese output rules and adaptive monochrome HTML/SVG visual canvases for T3 Code, Antigravity, and CLI agents.",
+    "logo":  "assets/logo.svg",
+    "suggestedPrompts":  [
+                             "用交互式对比画布分析两种架构方案的优劣与适用边界",
+                             "启用 Vision+ 绘制当前模块的核心数据流向图",
+                             "按高密度紧凑格式梳理当前项目的目录结构与关键入口"
+                         ],
+    "license":  "MIT",
+    "keywords":  [
+                     "visualization",
+                     "html-canvas",
+                     "svg",
+                     "formatting",
+                     "diagrams",
+                     "chinese"
+                 ],
+    "author":  {
+                   "name":  "layz1209",
+                   "url":  "https://github.com/layz1209"
+               },
+    "homepage":  "https://github.com/layz1209/clean-visual-kit",
+    "repository":  "https://github.com/layz1209/clean-visual-kit"
+}

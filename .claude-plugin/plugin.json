@@ -1,0 +1,7 @@
+{
+  "name": "clean-visual-kit",
+  "version": "1.0.0",
+  "description": "High-density Chinese output rules and adaptive monochrome HTML/SVG visual canvases.",
+  "license": "MIT",
+  "skills": "./skills"
+}
